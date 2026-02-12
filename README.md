@@ -1,7 +1,7 @@
 # GitGroup-4
 git hub group 4 repo
-Members...
+Members...  
 Yongseong Choi  
 Laurentius Adela  
 Kia Seif  
-Palak Palak  
+Palak Palak 
